@@ -1,24 +1,13 @@
 .mainContainer {
+
     margin: 2px 1em 0 auto;
     text-align: center;
 }
 
 .leftContainer{
-    margin: auto 100% 40% auto;
-    background-color: aquamarine;
+    display: flex;
+    align-items: flex-start;
     text-align: center;
-    width: 150px;
-    height: 80px;
-    color: black;
-    
-}
-
-.formContainer{
-    margin: auto auto 40% 100%;
-    background-color: aquamarine;
-    text-align: center;
-    width: 150px;
-    height: 80px;
     color: black;
     
 }
