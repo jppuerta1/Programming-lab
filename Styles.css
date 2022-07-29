@@ -6,8 +6,8 @@
 
 .leftContainer{
     display: flex;
-    align-items: flex-start;
-    text-align: center;
+    flex-direction: row  ;
+    justify-content: space-between;
     color: black;
     
 }
